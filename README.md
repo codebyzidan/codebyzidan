@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zinedine Zidanir Rizki</h1>
-<h3 align="center">A passionate fullstack developer from Indonesia</h3>
+<h3 align="center">A passionate fullstack developer from Indonesian</h3>
 
 - 🌱 I’m currently learning **Laravel 12 and Django**
 
